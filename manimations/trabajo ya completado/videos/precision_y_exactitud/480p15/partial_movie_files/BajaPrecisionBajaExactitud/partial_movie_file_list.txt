@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/alanm/OneDrive/Escritorio/MANIM/manimations/media/videos/precision_y_exactitud/480p15/partial_movie_files/BajaPrecisionBajaExactitud/1185818338_2535280058_223132457.mp4'
+file 'file:C:/Users/alanm/OneDrive/Escritorio/MANIM/manimations/media/videos/precision_y_exactitud/480p15/partial_movie_files/BajaPrecisionBajaExactitud/624642324_3272094362_2643865574.mp4'
+file 'file:C:/Users/alanm/OneDrive/Escritorio/MANIM/manimations/media/videos/precision_y_exactitud/480p15/partial_movie_files/BajaPrecisionBajaExactitud/624642324_3039023512_614533432.mp4'
+file 'file:C:/Users/alanm/OneDrive/Escritorio/MANIM/manimations/media/videos/precision_y_exactitud/480p15/partial_movie_files/BajaPrecisionBajaExactitud/624642324_3205783639_2767803230.mp4'
+file 'file:C:/Users/alanm/OneDrive/Escritorio/MANIM/manimations/media/videos/precision_y_exactitud/480p15/partial_movie_files/BajaPrecisionBajaExactitud/624642324_1734327179_1351158600.mp4'
